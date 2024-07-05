@@ -3,6 +3,7 @@ COLOURS=["R","G","B","W","Y","P"]
 TRIES=10
 CODE_LEN=4
 
+
 def generate_code():
     code=[]
     for i in range(CODE_LEN):
